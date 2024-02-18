@@ -139,6 +139,7 @@
       <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-mbstring" />
       <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-php72" />
       <path value="$PROJECT_DIR$/blog/vendor/symfony/polyfill-php80" />
+      <path value="$PROJECT_DIR$/blog/vendor/itsgoingd/clockwork" />
     </include_path>
   </component>
   <component name="PhpProjectSharedConfiguration" php_language_level="8.1">
@@ -149,6 +150,7 @@
   </component>
   <component name="PhpUnit">
     <phpunit_settings>
+      <PhpUnitSettings configuration_file_path="$PROJECT_DIR$/blog/phpunit.xml" custom_loader_path="$PROJECT_DIR$/blog/vendor/autoload.php" paratest_path="$PROJECT_DIR$/blog/vendor/bin/paratest_for_phpstorm" use_configuration_file="true" />
       <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/vendor/autoload.php" />
     </phpunit_settings>
   </component>

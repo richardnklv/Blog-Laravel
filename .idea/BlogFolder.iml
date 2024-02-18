@@ -135,6 +135,7 @@
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/voku/portable-ascii" />
       <excludeFolder url="file://$MODULE_DIR$/blog/vendor/webmozart/assert" />
       <excludeFolder url="file://$MODULE_DIR$/vendor/composer" />
+      <excludeFolder url="file://$MODULE_DIR$/blog/vendor/itsgoingd/clockwork" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
